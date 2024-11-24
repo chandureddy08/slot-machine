@@ -39,6 +39,7 @@ def main():
     print("***************************")
     print("Welcome to the Slot-Machine")
     print("Symbols: 🍒  🍉  🍋  🔔  ⭐")
+    print("Match any 3 in a row to win 💰")
     print("***************************")
 
     balance = deposit()  # User sets the initial balance
